@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/joon3.github.io/static/css/main.6e8ce666.css",
-    "main.js": "/joon3.github.io/static/js/main.72e7a64d.js",
-    "static/media/recipe.png": "/joon3.github.io/static/media/recipe.2dc966328bdbf8519b46.png",
+    "main.css": "/joon3.github.io/static/css/main.5fbb77d3.css",
+    "main.js": "/joon3.github.io/static/js/main.a3921f26.js",
+    "static/media/recipe2.png": "/joon3.github.io/static/media/recipe2.abed8c10bb0c76044996.png",
     "index.html": "/joon3.github.io/index.html",
-    "main.6e8ce666.css.map": "/joon3.github.io/static/css/main.6e8ce666.css.map",
-    "main.72e7a64d.js.map": "/joon3.github.io/static/js/main.72e7a64d.js.map"
+    "main.5fbb77d3.css.map": "/joon3.github.io/static/css/main.5fbb77d3.css.map",
+    "main.a3921f26.js.map": "/joon3.github.io/static/js/main.a3921f26.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e8ce666.css",
-    "static/js/main.72e7a64d.js"
+    "static/css/main.5fbb77d3.css",
+    "static/js/main.a3921f26.js"
   ]
 }
